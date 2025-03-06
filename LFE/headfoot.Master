@@ -1,0 +1,158 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="headfoot.master.cs" Inherits="LFE.headfoot" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Cure Trust and Research Centre</title>
+    <style>
+        header{
+            font-family:Tahoma;
+            background-color:#C6E2FF;
+            color: black;
+        	padding: 10px 20px;
+        	text-align: center;
+            margin-left: 0px;
+        }
+        .scroll-text {
+            white-space: nowrap;
+            position: absolute;
+            animation: scroll 20s linear infinite;
+            font-size: large;
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(350%);
+            }
+            to {
+                transform: translateX(-150%);
+            }
+        }
+
+        .container {
+            width: 104%;
+            overflow: hidden;
+            position: relative;
+            background: #222;
+            color: white;
+            padding: 10px;
+            top: -20px;
+            left: -19px;
+            height: 49px;
+        }
+        .nav-container {
+            display: grid;
+            grid-template-columns: auto 1fr; 
+            align-items: center;
+            padding: 10px 20px;
+        }
+        .logo {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .nav-menu {
+            display: flex;
+            justify-content: flex-end;
+            gap: 20px;
+            font-family: "Javanese Text";
+            font-weight: 700;
+        }
+
+        .nav-menu a {
+            color: black;
+            text-decoration: none;
+            padding: 10px;
+            transition: 0.3s;
+            
+        }
+
+        .nav-menu a:hover {
+            background-color: #DCFFFF;
+            border-radius: 5px;
+        }
+        @media (max-width: 768px) {
+            .nav-container {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            .nav-menu {
+                justify-content: center;
+                margin-top: 10px;
+            }
+        }
+        .btn{
+            background-color:#00273B;
+            border-radius:10px;
+            font-family: "Javanese Text";
+            color:cornsilk;
+        }
+        .btn:hover{
+            background-color:#A23D77;
+        }
+        .ftr{
+            background-color:white;
+            color:black;
+        }
+
+        .auto-style2 {
+            color: #FFFFFF;
+        }
+
+        .auto-style3 {
+            width: 1349px;
+        }
+
+        .auto-style4 {
+            height: 175px;
+        }
+
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <table class="auto-style3">
+                    <tr>
+                        <td>
+                            <div class="container">
+                                <div class="scroll-text">
+                                    <br />Contact : +91 9360009019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; curetrustandresearchcentre@gmail.com</div>
+                            </div>
+                            <header>
+                                <div class="nav-container">
+                                    <div class="logo">
+                                        <asp:Image ID="Image1" runat="server" ImageUrl="~/logo_main.jpg" Height="129px" Width="170px" Style="border-radius:30%"/>
+                                    </div>
+                                    <div class="nav-menu">
+                                        <a href="https://www.figma.com/design/PhfIjcP7roJFIsUnyUxYP2/Untitled" class="auto-style2">About Us</a> <a href="https://www.figma.com/design/PhfIjcP7roJFIsUnyUxYP2/Untitled" class="auto-style2">Our Works</a> <a href="https://www.figma.com/design/PhfIjcP7roJFIsUnyUxYP2/Untitled" class="auto-style2">Current Projects</a> <a href="https://www.figma.com/design/PhfIjcP7roJFIsUnyUxYP2/Untitled" class="auto-style2">Lend A Hand</a> <a href="https://www.figma.com/design/PhfIjcP7roJFIsUnyUxYP2/Untitled" class="auto-style2">Chronicles and Bulletin</a>
+                                        <asp:Button CssClass="btn" ID="Button1" runat="server" Text="Donate Now" Height="46px" Width="124px" />
+                                    </div>
+                                </div>
+                            </header>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td class="auto-style4">
+                            <footer class="ftr">
+                                <br />
+                                <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Image ID="Image2" runat="server" Height="28px" ImageUrl="~/location.png" Width="29px" AlternateText="hi" />
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address :&nbsp; 8, MM Complex,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kalpalam Road,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goripalayam,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Madurai - 625 002.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph : 9360009019
+                                <p>
+                                    &nbsp;</p>
+                            </footer>
+                        </td>
+                    </tr>
+                </table>
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
