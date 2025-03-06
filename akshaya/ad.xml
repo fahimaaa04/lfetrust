@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/car2.jpeg</ImageUrl>
+   
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>flowers</Keyword>
+    <Width>100%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/car2.jpeg</ImageUrl>
+   
+    <AlternateText>Order roses and flowers</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>gifts</Keyword>
+    <Width>100%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/car2.jpeg</ImageUrl>
+   
+    <AlternateText>Send flowers to Russia</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>russia</Keyword>
+    <Width>100%</Width>
+    <Height>150</Height>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>rose4.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>gifts</Keyword>
+    <Width>1000</Width>
+    <Height>150</Height>
+  </Ad>
+</Advertisements>
