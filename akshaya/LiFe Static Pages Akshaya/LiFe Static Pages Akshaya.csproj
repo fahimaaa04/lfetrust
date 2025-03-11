@@ -145,7 +145,7 @@
     <Content Include="Lend a Hand.aspx" />
     <Content Include="Donate Now.aspx" />
     <Content Include="Chronicles and Bulletins.aspx" />
-    <Content Include="WebForm7.aspx" />
+    <Content Include="Become a Beneficiary.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="heart-removebg-preview.png" />
     <Content Include="imagebutton %281%29.jpeg" />
@@ -281,12 +281,12 @@
     <Compile Include="Chronicles and Bulletins.aspx.designer.cs">
       <DependentUpon>Chronicles and Bulletins.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm7.aspx.cs">
-      <DependentUpon>WebForm7.aspx</DependentUpon>
+    <Compile Include="Become a Beneficiary.aspx.cs">
+      <DependentUpon>Become a Beneficiary.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm7.aspx.designer.cs">
-      <DependentUpon>WebForm7.aspx</DependentUpon>
+    <Compile Include="Become a Beneficiary.aspx.designer.cs">
+      <DependentUpon>Become a Beneficiary.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -315,6 +315,12 @@
                 margin-top: 10px;
             }
             }
+            .qr{
+                width:450px;
+                height:450px;
+                margin-left:200px;
+                margin-top:20px;
+            }
       
        
     </style>
@@ -341,6 +347,8 @@
                 <li><a href="OurWorks.aspx">Our Works</a></li>
                 <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
                 <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a></li>
+                <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
+
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
                 </li>
@@ -391,6 +399,9 @@
         <label for="amount">Donation Amount:</label>
         <input type="number" id="amount" name="amount" min="1" required="required"/>
 
+        <label for="amount">Scan the QR to pay the amount</label>
+        <img src="cure trust QR.jpg" alt="QR" class="qr"/>
+
         <button type="submit">Donate Now</button>
     </div>
 
@@ -405,6 +416,7 @@
         <a href="OurWorks.aspx">Our Works</a>
         <a href="Lend a Hand.aspx">Lend A Hand</a>
         <a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a>
+        <a href="Become a Beneficiary.aspx">Become a Beneficiary</a>
     </div>
 
     <!-- Right-aligned Address & Logo -->

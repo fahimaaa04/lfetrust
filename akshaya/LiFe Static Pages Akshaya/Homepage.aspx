@@ -470,6 +470,7 @@
                 <li><a href="OurWorks.aspx">Our Works</a></li>
                 <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
                 <li><a href="Cronicles and Bulletins.aspx">Cronicles & Bulletins</a></li>
+                <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
                 </li>
@@ -536,6 +537,7 @@ And we won’t stop until compassion becomes the world’s strongest currency.
         <a href="OurWorks.aspx">Our Works</a>
         <a href="Lend a Hand.aspx">Lend A Hand</a>
         <a href="Cronicles and Bulletins.aspx">Cronicles & Bulletins</a>
+        <a href="Become a Beneficiary.aspx">Become a Beneficiary</a>
     </div>
 
     <!-- Right-aligned Address & Logo -->

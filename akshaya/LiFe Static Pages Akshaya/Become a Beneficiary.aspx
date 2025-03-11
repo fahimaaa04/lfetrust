@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm7.aspx.cs" Inherits="LiFe_Static_Pages_Akshaya.WebForm7" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Become a Beneficiary.aspx.cs" Inherits="LiFe_Static_Pages_Akshaya.WebForm7" %>
 
 <!DOCTYPE html>
 
@@ -104,16 +104,22 @@
         /*Beneficiary container*/
 
         .bcontainer {
-            background: white;
+            background: linen;
             padding: 25px;
-            width: 400px;
+            width: 800px;
             border-radius: 10px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             text-align: center;
+            margin-left:350px;
         }
         h2 {
             margin-bottom: 20px;
-            color: #333;
+            text-align: center;
+            color: darkred;
+            font-family:'Lucida Calligraphy';
+            font-size:xx-large;
+            font-weight:bolder;
+            text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 3px 3px 8px rgba(255, 165, 0, 0.7);
         }
         label {
             font-weight: bold;
@@ -155,11 +161,144 @@
             margin-top: 15px;
             font-size: 14px;
         }
-        
+        /*footer*/
+            .footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background: linear-gradient(to right, #e6b477, #f0c892); /* Softer shades of #C28840 */
+                color: white;
+                padding: 30px 50px;
+                border-top: 4px solid #ffcc00;
+                max-width: 100%;
+                border-radius: 15px 15px 0 0;
+                box-shadow: 0px -4px 12px rgba(0, 0, 0, 0.2);
+                flex-wrap: wrap;
+            }
+            /* Navigation Links (Left Side) */
+            .footer-nav {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .footer-nav a {
+                color: darkred;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                transition: all 0.3s ease-in-out;
+            }
+
+            .footer-nav a:hover {
+                color: #ffcc00;
+                transform: translateX(5px);
+            }
+
+            /* Right-aligned Address & Logo */
+            .footer-right {
+                display: flex;
+                align-items: center;
+                text-align: right;
+                gap: 15px;
+            }
+
+            /* Logo Styling */
+            .footer-logo img {
+                width: 80px; /* Smaller logo */
+                height: auto;
+                transition: transform 0.3s ease;
+            }
+
+            .footer-logo img:hover {
+                transform: scale(1.1);
+            }
+
+            /* Address Styling */
+            .footer-address {
+                font-size: 16px;
+                font-family: 'Book Antiqua';
+                font-weight: bold;
+                color: darkred;
+                max-width: 250px;
+            }
+
+            /* Social Media Icons */
+            .footer-social {
+                display: flex;
+                gap: 15px;
+                margin-top: 10px;
+            }
+
+            .footer-social a {
+                color: darkred;
+                font-size: 22px;
+                transition: color 0.3s ease;
+            }
+
+            .footer-social a:hover {
+                color: #ffcc00;
+            }
+
+            /* Responsive Design */
+            @media (max-width: 768px) {
+            .footer {
+                flex-direction: column;
+                text-align: center;
+                padding: 40px;
+            }
+            .footer-nav {
+                align-items: center;
+            }
+            .footer-right {
+                flex-direction: column;
+                align-items: center;
+            }
+            .footer-address {
+                text-align: center;
+            }
+            .footer-logo img {
+                margin-top: 10px;
+            }
+            }
+      
+    
     </style>
 </head>
 <body>
     <form id="form1" runat="server">
+        <!--scroll text-->
+      <div class="container">
+            <div class="scroll-text">
+                  <br />Contact : +91 9360009019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; curetrustandresearchcentre@gmail.com</div>
+      </div>
+            <!-- Header Section -->
+    <div class="header">
+        <!-- Logo Section -->
+        <div class="logo">
+            <img src="logo.jpg" alt="Website Logo" class="logo" />
+        </div>
+
+        <!-- Navigation Bar -->
+        <div class="navbar">
+            <ul>
+                <li><a href="Homepage.aspx">Home</a></li>
+                <li><a href="About Us.aspx">About Us</a></li>
+                <li><a href="OurWorks.aspx">Our Works</a></li>
+                <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
+                <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a></li>
+                <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
+                <li>
+                    <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
+                </li>
+            </ul>
+        </div>
+    </div>
+
+       
+        <br />
+        <br />
         <div class="bcontainer">
             <h2>Become a Beneficiary</h2>
 
@@ -187,6 +326,35 @@
 
             <asp:Label ID="lblMessage" runat="server" CssClass="message"></asp:Label>
         </div>
+
+        <br />
+        <br />
+        <br />
+         <!--Footer-->
+<footer class="footer">
+    <!--Navigation Links (Left)-->
+    <div class="footer-nav">
+        <a href="Homepage.aspx">Home</a>
+        <a href="About Us.aspx">About Us</a>
+        <a href="OurWorks.aspx">Our Works</a>
+        <a href="Lend a Hand.aspx">Lend A Hand</a>
+        <a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a>
+        <a href="Become a Beneficiary.aspx">Become a Beneficiary</a>
+    </div>
+
+    <!-- Right-aligned Address & Logo -->
+  <div class="footer-right">
+        <div class="footer-address">
+            <p>Cure Trust & Research Center</p>
+            <p>8, MM Complex, Kalpalam Road,</p>
+            <p>Goripalayam, Madurai - 625002</p>
+            <p>Ph: 9360009019</p>
+        </div>
+        <div class="footer-logo">
+            <img src="logo.jpg" alt="Trust Logo"/>
+        </div>
+    </div>
+</footer>
     </form>
 </body>
 </html>
