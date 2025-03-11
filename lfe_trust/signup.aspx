@@ -78,17 +78,32 @@
     <form id="form1" runat="server">
         <div class="container">
             <h2>Sign Up</h2>
-            
+
             <div class="form-group">
                 <asp:TextBox ID="TextBox1" runat="server" CssClass="form-control" placeholder="Full Name"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                    ControlToValidate="TextBox1" ErrorMessage="Name is required" ForeColor="Red" Display="Dynamic" />
             </div>
 
             <div class="form-group">
                 <asp:TextBox ID="TextBox2" runat="server" CssClass="form-control" placeholder="Email"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                    ControlToValidate="TextBox2" ErrorMessage="Email is required" ForeColor="Red" Display="Dynamic" />
+                <asp:RegularExpressionValidator ID="RegexValidator1" runat="server" 
+                    ControlToValidate="TextBox2" 
+                    ValidationExpression="^[^@\s]+@[^@\s]+\.[^@\s]+$"
+                    ErrorMessage="Enter a valid email" ForeColor="Red" Display="Dynamic" />
             </div>
 
             <div class="form-group">
                 <asp:TextBox ID="TextBox3" runat="server" CssClass="form-control" TextMode="Password" placeholder="Password"></asp:TextBox>
+                <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                    ControlToValidate="TextBox3" ErrorMessage="Password is required" ForeColor="Red" Display="Dynamic" />
+                <asp:RegularExpressionValidator ID="RegexValidator2" runat="server" 
+                    ControlToValidate="TextBox3" 
+                    ValidationExpression="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$"
+                    ErrorMessage="Password must be at least 6 characters and contain a letter and a number" 
+                    ForeColor="Red" Display="Dynamic" />
             </div>
 
             <asp:Button ID="Button1" runat="server" CssClass="btn" Text="Sign Up" OnClick="Button1_Click" />
