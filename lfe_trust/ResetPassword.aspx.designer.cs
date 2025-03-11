@@ -69,13 +69,13 @@ namespace lfe_trust
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvConfirmPassword;
 
         /// <summary>
-        /// cvPasswords control.
+        /// cvPasswordMatch control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CompareValidator cvPasswords;
+        protected global::System.Web.UI.WebControls.CompareValidator cvPasswordMatch;
 
         /// <summary>
         /// btnReset control.
