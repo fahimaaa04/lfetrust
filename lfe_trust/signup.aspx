@@ -78,32 +78,26 @@
     <form id="form1" runat="server">
         <div class="container">
             <h2>Sign Up</h2>
-
+            
             <div class="form-group">
                 <asp:TextBox ID="TextBox1" runat="server" CssClass="form-control" placeholder="Full Name"></asp:TextBox>
-                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
-                    ControlToValidate="TextBox1" ErrorMessage="Name is required" ForeColor="Red" Display="Dynamic" />
+                <asp:RequiredFieldValidator ID="rfvName" runat="server" ControlToValidate="TextBox1" 
+                    ErrorMessage="Full Name is required" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
             </div>
 
             <div class="form-group">
                 <asp:TextBox ID="TextBox2" runat="server" CssClass="form-control" placeholder="Email"></asp:TextBox>
-                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
-                    ControlToValidate="TextBox2" ErrorMessage="Email is required" ForeColor="Red" Display="Dynamic" />
-                <asp:RegularExpressionValidator ID="RegexValidator1" runat="server" 
-                    ControlToValidate="TextBox2" 
-                    ValidationExpression="^[^@\s]+@[^@\s]+\.[^@\s]+$"
-                    ErrorMessage="Enter a valid email" ForeColor="Red" Display="Dynamic" />
+                <asp:RequiredFieldValidator ID="rfvEmail" runat="server" ControlToValidate="TextBox2" 
+                    ErrorMessage="Email is required" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
+                <asp:RegularExpressionValidator ID="revEmail" runat="server" ControlToValidate="TextBox2"
+                    ErrorMessage="Invalid Email Format" ForeColor="Red" Display="Dynamic"
+                    ValidationExpression="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"></asp:RegularExpressionValidator>
             </div>
 
             <div class="form-group">
                 <asp:TextBox ID="TextBox3" runat="server" CssClass="form-control" TextMode="Password" placeholder="Password"></asp:TextBox>
-                <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
-                    ControlToValidate="TextBox3" ErrorMessage="Password is required" ForeColor="Red" Display="Dynamic" />
-                <asp:RegularExpressionValidator ID="RegexValidator2" runat="server" 
-                    ControlToValidate="TextBox3" 
-                    ValidationExpression="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$"
-                    ErrorMessage="Password must be at least 6 characters and contain a letter and a number" 
-                    ForeColor="Red" Display="Dynamic" />
+                <asp:RequiredFieldValidator ID="rfvPassword" runat="server" ControlToValidate="TextBox3" 
+                    ErrorMessage="Password is required" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
             </div>
 
             <asp:Button ID="Button1" runat="server" CssClass="btn" Text="Sign Up" OnClick="Button1_Click" />
