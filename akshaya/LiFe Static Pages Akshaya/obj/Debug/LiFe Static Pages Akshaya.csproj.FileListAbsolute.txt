@@ -1,0 +1,148 @@
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.dll.config
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.pdb
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.exe
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.exe.config
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.rsp
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.exe
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.exe.config
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.rsp
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.AppContext.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Collections.Immutable.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Console.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Globalization.Calendars.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.Compression.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.FileSystem.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Net.Http.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Net.Sockets.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Reflection.Metadata.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.ValueTuple.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XPath.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.exe
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.exe.config
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.rsp
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\VBCSCompiler.exe
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\roslyn\VBCSCompiler.exe.config
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Antlr3.Runtime.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\AspNet.ScriptManager.bootstrap.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\AspNet.ScriptManager.jQuery.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.ScriptManager.WebForms.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.Web.Infrastructure.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Newtonsoft.Json.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\System.Web.Optimization.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\WebGrease.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\System.Web.Optimization.xml
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Newtonsoft.Json.xml
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Antlr3.Runtime.pdb
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\mygit\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mygit\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.AssemblyReference.cache
+D:\mygit\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.CoreCompileInputs.cache
+D:\mygit\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.CopyComplete
+D:\mygit\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.dll
+D:\mygit\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.pdb
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.dll.config
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\LiFe Static Pages Akshaya.pdb
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.exe
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.exe.config
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csc.rsp
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.exe
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.exe.config
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\csi.rsp
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.AppContext.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Collections.Immutable.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Console.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Globalization.Calendars.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.Compression.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.FileSystem.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Net.Http.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Net.Sockets.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Reflection.Metadata.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.ValueTuple.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XPath.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.exe
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.exe.config
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\vbc.rsp
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\VBCSCompiler.exe
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\roslyn\VBCSCompiler.exe.config
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Antlr3.Runtime.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\AspNet.ScriptManager.bootstrap.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\AspNet.ScriptManager.jQuery.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.ScriptManager.WebForms.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.Web.Infrastructure.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Newtonsoft.Json.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\System.Web.Optimization.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\WebGrease.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\System.Web.Optimization.xml
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Newtonsoft.Json.xml
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Antlr3.Runtime.pdb
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.AssemblyReference.cache
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.CoreCompileInputs.cache
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.csproj.CopyComplete
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.dll
+D:\mygit\lfetrust\akshaya\LiFe Static Pages Akshaya\obj\Debug\LiFe Static Pages Akshaya.pdb
