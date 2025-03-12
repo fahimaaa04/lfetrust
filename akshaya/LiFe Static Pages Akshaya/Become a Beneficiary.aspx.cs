@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data.SqlClient;
-using System.Web.UI.WebControls;
+
 
 namespace LiFe_Static_Pages_Akshaya
 {
@@ -58,6 +58,11 @@ namespace LiFe_Static_Pages_Akshaya
         protected void Button1_Click(object sender, EventArgs e)
         {
             Response.Redirect("Donate Now.aspx");
+        }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("SIGN IN.aspx");
         }
     }
 }

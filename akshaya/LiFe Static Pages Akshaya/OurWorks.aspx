@@ -53,7 +53,7 @@
         .scroll-text {
             white-space: nowrap;
             position: absolute;
-            animation: scroll 10s linear infinite;
+            animation: scroll 20s linear infinite;
             font-size: large;
             padding-top:5px;
         }
@@ -522,6 +522,9 @@
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
                 </li>
+                 <li>
+                   <asp:Button class="Dbutton" ID="Button2" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button2_Click" Text="SIGN IN" Width="131px" Font-Names="Book Antiqua" />
+               </li>   
             </ul>
         </div>
     </div>
@@ -652,29 +655,29 @@
         <h3 class="h3" style="text-align: center">Appraisals</h3>
         <div class="reviews-section">
         <div class="review-container">
-            <img src="person1.jpg" alt="Reviewer 1" class="review-img"/>
+            <img src="review person1.png" alt="Reviewer 1" class="review-img"/>
             <div class="review-text">
-                <p>"An incredible experience! The dedication and service are beyond expectations."</p>
-                <div class="review-name">Alice Johnson</div>
-                <div class="review-role">Volunteer</div>
+                <p>"The Cure Trust and Research Center has been a true game-changer in my life. After my disability diagnosis, they offered incredible support, helping me with resources, rehabilitation, and skill development. Thanks to their guidance, I was able to secure a job and build a new sense of purpose. Their care and commitment didn’t stop once I got employed—they continue to provide the support I need to succeed. I’m truly grateful for everything they’ve done."</p>
+                <div class="review-name">Aravind Kumar</div>
+                <div class="review-role">Resilient Worker</div>
             </div>
         </div>
 
         <div class="review-container">
-            <img src="person2.jpg" alt="Reviewer 2" class="review-img"/>
+            <img src="review person2.png" alt="Reviewer 2" class="review-img"/>
             <div class="review-text">
-                <p>"Their support for underprivileged communities is heartwarming and inspiring."</p>
-                <div class="review-name">Mark Thompson</div>
-                <div class="review-role">Donor</div>
+                <p>"Thanks to The Cure Trust, I’ve overcome my disability and achieved multiple sports accolades. Their support, training, and belief in me have empowered me to reach my full potential. I’m truly grateful for everything they’ve done."</p>
+                <div class="review-name">Priya</div>
+                <div class="review-role">Para-athlete</div>
             </div>
         </div>
 
         <div class="review-container">
-            <img src="person3.jpg" alt="Reviewer 3" class="review-img"/>
+            <img src="review person3.png" alt="Reviewer 3" class="review-img"/>
             <div class="review-text">
-                <p>"A truly impactful organization. I am grateful to be a part of their mission."</p>
-                <div class="review-name">Emily Davis</div>
-                <div class="review-role">Social Worker</div>
+                <p>"Thanks to Cure Trust and Research Center, I’ve gained confidence and independence despite my disability. Their support has empowered me to live a more fulfilling life and contribute to my family and community."</p>
+                <div class="review-name">Anjali</div>
+                <div class="review-role">House Wife</div>
             </div>
         </div>
     </div>

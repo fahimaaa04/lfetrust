@@ -25,5 +25,10 @@ namespace LiFe_Static_Pages_Akshaya
         {
             Response.Redirect("Payment.aspx");
         }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("SIGN IN.aspx");
+        }
     }
 }

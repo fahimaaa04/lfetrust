@@ -54,7 +54,7 @@
         .scroll-text {
             white-space: nowrap;
             position: absolute;
-            animation: scroll 10s linear infinite;
+            animation: scroll 20s linear infinite;
             font-size: large;
             padding-top:5px;
         }
@@ -308,9 +308,13 @@
                 <li><a href="OurWorks.aspx">Our Works</a></li>
                 <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
                 <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a></li>
+                <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
                 </li>
+                <li>
+                   <asp:Button class="Dbutton" ID="Button2" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button2_Click" Text="SIGN IN" Width="131px" Font-Names="Book Antiqua" />
+               </li> 
             </ul>
         </div>
     </div><br /><br />

@@ -141,6 +141,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Homepage.aspx" />
     <Content Include="About Us.aspx" />
+    <Content Include="log-in.png" />
     <Content Include="OurWorks.aspx" />
     <Content Include="Lend a Hand.aspx" />
     <Content Include="Donate Now.aspx" />
@@ -154,6 +155,9 @@
     <Content Include="overlap img2.jpg" />
     <Content Include="pcontainer bg.jpg" />
     <Content Include="person1.png" />
+    <Content Include="review person1.png" />
+    <Content Include="review person2.png" />
+    <Content Include="review person3.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
