@@ -1,0 +1,1 @@
+﻿DELETE FROM signup WHERE Email = 'fahiwaris04@gmail.com';
