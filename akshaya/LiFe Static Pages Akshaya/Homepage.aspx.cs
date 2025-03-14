@@ -21,7 +21,8 @@ namespace LiFe_Static_Pages_Akshaya
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Sign In.aspx");
+            Response.Redirect("signup.aspx");
         }
+       
     }
 }
