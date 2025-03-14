@@ -18,14 +18,14 @@ namespace LiFe_Static_Pages_Akshaya
 
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=BeneficiaryDB;Integrated Security=False";
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=dbtrust;Integrated Security=True";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 try
                 {
                     conn.Open();
-                    string query = "INSERT INTO Beneficiaries (Name, Email, PhoneNo, HelpNeeded) VALUES (@Name, @Email, @PhoneNo, @HelpNeeded)";
+                    string query = "INSERT INTO Benef (Name, Email, PhoneNo, HelpNeeded) VALUES (@Name, @Email, @PhoneNo, @HelpNeeded)";
 
                     using (SqlCommand cmd = new SqlCommand(query, conn))
                     {
@@ -62,7 +62,7 @@ namespace LiFe_Static_Pages_Akshaya
 
         protected void Button2_Click(object sender, EventArgs e)
         {
-            Response.Redirect("SIGN IN.aspx");
+            Response.Redirect("signup.aspx");
         }
     }
 }

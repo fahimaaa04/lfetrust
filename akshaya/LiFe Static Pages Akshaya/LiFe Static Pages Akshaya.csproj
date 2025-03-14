@@ -139,7 +139,6 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="cure trust QR.jpg" />
-    <Content Include="Default.aspx" />
     <Content Include="disabled group.jpg" />
     <Content Include="disabled1.jpg" />
     <Content Include="disabled2.jpg" />
@@ -168,6 +167,7 @@
     <Content Include=".aspx" />
     <Content Include="ForgotPassword.aspx" />
     <Content Include="ResetPassword.aspx" />
+    <Content Include="volunteer.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="heart-removebg-preview.png" />
     <Content Include="imagebutton %281%29.jpeg" />
@@ -231,13 +231,6 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Default.aspx.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Default.aspx.designer.cs">
-      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -347,6 +340,13 @@
     </Compile>
     <Compile Include="ResetPassword.aspx.designer.cs">
       <DependentUpon>ResetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="volunteer.aspx.cs">
+      <DependentUpon>volunteer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="volunteer.aspx.designer.cs">
+      <DependentUpon>volunteer.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
