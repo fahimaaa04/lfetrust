@@ -120,16 +120,20 @@
             display: flex;
             align-items: center;
             width: 1000px; /* Adjust as needed */
-            background: darkred;
+            background-color:linen;
+            box-shadow:0 4px 10px rgb(239 235 26);
             padding: 20px;
             margin-bottom: 10px; /* Space between containers */
             border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
             position: relative;
             margin-left:250px;
             height:200px;
             margin-top:50px;
             color:beige;
+        }
+        .containers:hover{
+            transform: scale(1.1);
         }
 
         /* Image styling */
@@ -138,16 +142,11 @@
             overflow: hidden;
             border-radius: 10px;
         }
-
         .image-containers img {
             width: 300px;
             height: 200px;
             object-fit: cover;
             border-radius: 8px;
-            box-shadow:0 4px 10px rgb(239 235 26);
-        }
-        .containers:hover{
-            background-color:linen;
             box-shadow:0 4px 10px rgb(239 235 26);
         }
         /* Text styling */
@@ -156,14 +155,12 @@
             padding-left: 20px;
             color:beige;
         }
-     
-        .text-containers h3 {
+       .text-containers h3 {
             color: darkred;
             margin-bottom: 10px;
             font-family:'Eras ITC';
             font-size:x-large;
         }
-
         .text-containers p {
             color: darkred;
             font-family:'Lucida Calligraphy';
@@ -333,8 +330,8 @@
             <img src="disabled1.jpg" alt="Image 1"/>
         </div>
         <div class="text-containers">
-            <h3>Title 1</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</p>
+            <h3>From Struggle to Strength</h3>
+            <p>Once burdened by mobility challenges, [Name] faced daily hardships. With the support of a charitable trust, he now receives a NeoMotion mobility device, restoring his independence. Surrounded by well-wishers, his journey shifts from struggle to hope, proving that support can change lives.</p>
         </div>
     </div>
     <div class="finishing-line"></div>
@@ -345,8 +342,8 @@
             <img src="chroniclereview1.jpg" alt="Image 2"/>
         </div>
         <div class="text-containers">
-            <h3>Title 2</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</p>
+            <h3>A Journey from Struggle to Hope</h3>
+            <p>Once burdened by illness and financial struggles, [Name] had lost all hope. Unable to afford treatment, his days were filled with uncertainty and despair. But today, as he receives medical aid through the trust, his expression has changed. Relief replaces hardship, and gratitude shines through—proof that a helping hand can transform a life.</p>
         </div>
     </div>
     <div class="finishing-line"></div>
@@ -357,8 +354,8 @@
             <img src="chroniclereview3.jpg" alt="Image 3"/>
         </div>
         <div class="text-containers">
-            <h3>Title 3</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</p>
+            <h3>Empowering Lives Through Support</h3>
+            <p>Once struggling with daily challenges, these individuals now receive essential aid through a trust’s initiative. With renewed hope and resources in hand, they step forward with confidence, proving that a little support can create a brighter future.</p>
         </div>
     </div>
     <div class="finishing-line"></div>

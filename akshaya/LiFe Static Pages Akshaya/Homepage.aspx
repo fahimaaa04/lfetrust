@@ -472,7 +472,7 @@
                 <li><a href="About Us.aspx">About Us</a></li>
                 <li><a href="OurWorks.aspx">Our Works</a></li>
                 <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
-                <li><a href="Cronicles and Bulletins.aspx">Cronicles & Bulletins</a></li>
+                <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a></li>
                 <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
