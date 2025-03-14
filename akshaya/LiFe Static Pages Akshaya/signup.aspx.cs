@@ -43,7 +43,7 @@ namespace LiFe_Static_Pages_Akshaya
                 }
 
             }
-            string verification = "https://localhost:44350/VerifyAccount.aspx?email=" + email;
+            string verification = "https://localhost:44323/VerifyAccount?email=" + email;
             MailMessage mail = new MailMessage();
             mail.From = new MailAddress("fairycrafts04@gmail.com");
             mail.To.Add(email);

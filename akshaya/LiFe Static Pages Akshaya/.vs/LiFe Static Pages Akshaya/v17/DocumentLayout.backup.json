@@ -3,12 +3,53 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\yocprehr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\resetpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:resetpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:resetpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|c:\\users\\hp\\desktop\\git2025\\lfetrust\\akshaya\\life static pages akshaya\\verifyaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:verifyaccount.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\verifyaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8CA97101-1C3C-47B8-8767-1BE6E2C114ED}|LiFe Static Pages Akshaya.csproj|solutionrelative:verifyaccount.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\yocprehr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\yocprehr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +59,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\yocprehr..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\yocprehr..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-14T08:15:38.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ResetPassword.aspx.cs",
+              "RelativeDocumentMoniker": "ResetPassword.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ResetPassword.aspx.cs",
+              "RelativeToolTip": "ResetPassword.aspx.cs",
+              "ViewState": "AgIAAAUAAACAmZmZmZkrwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:09:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ResetPassword.aspx",
+              "RelativeDocumentMoniker": "ResetPassword.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ResetPassword.aspx",
+              "RelativeToolTip": "ResetPassword.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-14T08:07:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\Homepage.aspx.cs",
+              "RelativeDocumentMoniker": "Homepage.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\Homepage.aspx.cs",
+              "RelativeToolTip": "Homepage.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:58:29.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\Homepage.aspx",
+              "RelativeDocumentMoniker": "Homepage.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\Homepage.aspx",
+              "RelativeToolTip": "Homepage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-14T07:56:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ForgotPassword.aspx.cs",
+              "RelativeDocumentMoniker": "ForgotPassword.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ForgotPassword.aspx.cs",
+              "RelativeToolTip": "ForgotPassword.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:54:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ForgotPassword.aspx",
+              "RelativeDocumentMoniker": "ForgotPassword.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\ForgotPassword.aspx",
+              "RelativeToolTip": "ForgotPassword.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-14T07:51:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerifyAccount.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\VerifyAccount.aspx.cs",
+              "RelativeDocumentMoniker": "VerifyAccount.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\VerifyAccount.aspx.cs",
+              "RelativeToolTip": "VerifyAccount.aspx.cs",
+              "ViewState": "AgIAACwAAACAMjMzMzMjwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:31:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerifyAccount.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\VerifyAccount.aspx",
+              "RelativeDocumentMoniker": "VerifyAccount.aspx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\VerifyAccount.aspx",
+              "RelativeToolTip": "VerifyAccount.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-14T07:27:57.763Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +184,20 @@
               "RelativeDocumentMoniker": "signup.aspx.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\signup.aspx.cs",
               "RelativeToolTip": "signup.aspx.cs",
-              "ViewState": "AgIAABUAAABAMzMzMzMbwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAzczMzMwUwDAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T07:22:12.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "signup.aspx",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\signup.aspx",
               "RelativeDocumentMoniker": "signup.aspx",
               "ToolTip": "C:\\Users\\hp\\Desktop\\git2025\\lfetrust\\akshaya\\LiFe Static Pages Akshaya\\signup.aspx",
               "RelativeToolTip": "signup.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-14T07:18:21.509Z",
               "EditorCaption": ""

@@ -79,7 +79,7 @@ namespace LiFe_Static_Pages_Akshaya
             if (!string.IsNullOrEmpty(storedHash) && isVerified && BCrypt.Net.BCrypt.Verify(password, storedHash))
             {
                 Response.Write("<script>alert('Login Successful');</script>");
-                Response.Redirect("landing.aspx");
+                Response.Redirect("Homepage.aspx");
             }
             else
             {

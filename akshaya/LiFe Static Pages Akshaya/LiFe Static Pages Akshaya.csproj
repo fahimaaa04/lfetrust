@@ -165,6 +165,9 @@
     <Content Include="Become a Beneficiary.aspx" />
     <Content Include="signup.aspx" />
     <Content Include="VerifyAccount.aspx" />
+    <Content Include=".aspx" />
+    <Content Include="ForgotPassword.aspx" />
+    <Content Include="ResetPassword.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="heart-removebg-preview.png" />
     <Content Include="imagebutton %281%29.jpeg" />
@@ -323,6 +326,27 @@
     </Compile>
     <Compile Include="VerifyAccount.aspx.designer.cs">
       <DependentUpon>VerifyAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include=".aspx.cs">
+      <DependentUpon>.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include=".aspx.designer.cs">
+      <DependentUpon>.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.designer.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.designer.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
