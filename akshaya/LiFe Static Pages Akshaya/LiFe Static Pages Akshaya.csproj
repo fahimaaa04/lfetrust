@@ -164,6 +164,7 @@
     <Content Include="Chronicles and Bulletins.aspx" />
     <Content Include="Become a Beneficiary.aspx" />
     <Content Include="signup.aspx" />
+    <Content Include="VerifyAccount.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="heart-removebg-preview.png" />
     <Content Include="imagebutton %281%29.jpeg" />
@@ -315,6 +316,13 @@
     </Compile>
     <Compile Include="signup.aspx.designer.cs">
       <DependentUpon>signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VerifyAccount.aspx.cs">
+      <DependentUpon>VerifyAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VerifyAccount.aspx.designer.cs">
+      <DependentUpon>VerifyAccount.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
