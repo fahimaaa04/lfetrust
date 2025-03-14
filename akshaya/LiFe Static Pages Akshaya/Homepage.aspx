@@ -468,11 +468,11 @@
         <!-- Navigation Bar -->
         <div class="navbar">
             <ul>
-                <li><a href="Homepage.aspx">Home</a></li>
-                <li><a href="About Us.aspx">About Us</a></li>
-                <li><a href="OurWorks.aspx">Our Works</a></li>
-                <li><a href="Lend a Hand.aspx">Lend A Hand</a></li>
-                <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a></li>
+                <li><a href="Homepage.aspx">Home</a></li>&nbsp;&nbsp;&nbsp; |
+                <li><a href="About Us.aspx">About Us</a>&nbsp;&nbsp;&nbsp; |</li>
+                <li><a href="OurWorks.aspx">Our Works</a>&nbsp;&nbsp;&nbsp; |</li>
+                <li><a href="Lend a Hand.aspx">Lend A Hand</a>&nbsp;&nbsp;&nbsp; |</li>
+                <li><a href="Chronicles and Bulletins.aspx">Chronicles & Bulletins</a>&nbsp;&nbsp;&nbsp; |</li>
                 <li><a href="Become a Beneficiary.aspx">Become a Beneficiary</a></li>
                 <li>
                     <asp:Button class="Dbutton" ID="Button1" runat="server" BackColor="PaleGoldenrod" Font-Bold="True" ForeColor="DarkRed" Height="46px" OnClick="Button1_Click" Text="DONATE NOW" Width="131px" Font-Names="Book Antiqua" />
